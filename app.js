@@ -12,3 +12,4 @@ const currentOs={
     freeMem:os.freemem(),
 }
 console.log(currentOs)
+xgfg
